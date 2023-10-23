@@ -1,0 +1,23 @@
+body {
+    background-color: darkgray;
+}
+
+.img-screenshot {
+    max-width: 200px;
+    height: auto;
+}
+
+.img-main {
+    max-width: 200px;
+    height: auto;
+}
+
+.custom-bg.container {
+    background-color: darkgrey;
+}
+
+.my-class {
+    width: 1000px;
+    height: auto;
+    overflow: hidden;
+}
